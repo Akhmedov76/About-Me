@@ -32,7 +32,7 @@ body {
     color: rgb(0, 255, 4);
 }
 
-.btn {
+/* .btn {
     width: 70px;
     height: 45px;
     border-radius: 8px;
@@ -43,11 +43,11 @@ body {
 
 .btn a:hover {
     color: rgb(6, 19, 255);
-} */
+}
 
-/* .btn a {
+.btn a {
     text-decoration: none;
     color: #fff;
     font-family: italic;
     font-size: large;
-}
+} */
