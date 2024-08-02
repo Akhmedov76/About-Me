@@ -31,3 +31,11 @@ body {
 .row a:hover {
     color: rgb(0, 255, 4);
 }
+
+.img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border-top: 40px;
+    margin-top: 40px;
+}
